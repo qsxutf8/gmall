@@ -2,6 +2,8 @@
 target/
 # Compiled class file
 *.class
+.mvn/
+mvnw*
 
 # Log file
 *.log
